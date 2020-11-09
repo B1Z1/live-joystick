@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d26f399-0d3a-4fd7-ae00-3ad97a5d679c" name="Default Changelist" comment="Inited project">
+      <change afterPath="$PROJECT_DIR$/.idea/LivePilot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iviyx21D3PEEnOGdkblWpuVVVO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\Ilya\Desktop\Projects\LivePilot\Backend\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\pilot-page\domain" />
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\welcome-page\ui" />
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\welcome-page\domain" />
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\domain\routes" />
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\modules" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Backend" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d26f399-0d3a-4fd7-ae00-3ad97a5d679c" name="Default Changelist" comment="" />
+      <created>1602794726505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602794726505</updated>
+      <workItem from="1602794727827" duration="7311000" />
+      <workItem from="1603398615674" duration="5289000" />
+      <workItem from="1604694926720" duration="13936000" />
+      <workItem from="1604709966574" duration="73000" />
+      <workItem from="1604751249415" duration="62000" />
+      <workItem from="1604783371512" duration="53000" />
+      <workItem from="1604783436367" duration="12642000" />
+      <workItem from="1604797571965" duration="1460000" />
+      <workItem from="1604799278028" duration="1164000" />
+      <workItem from="1604954738460" duration="316000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created logic">
+      <created>1604783417421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604783417421</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Joystick pad refactor">
+      <created>1604788012881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604788012881</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Removed unnecessary code from joystick pad">
+      <created>1604789819697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604789819697</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created joystick text component">
+      <created>1604792043287</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604792043287</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created joystick text component">
+      <created>1604792056163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604792056163</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created clear button component">
+      <created>1604796422706</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604796422706</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created api service for joystick">
+      <created>1604797128285</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604797128285</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added backend">
+      <created>1604797590193</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604797590193</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated backend files">
+      <created>1604797668798</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604797668798</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Inited project">
+      <created>1604954582721</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604954582721</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Backend/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/Frontend" />
+    </ignored-roots>
+    <MESSAGE value="Created logic" />
+    <MESSAGE value="Joystick pad refactor" />
+    <MESSAGE value="Removed unnecessary code from joystick pad" />
+    <MESSAGE value="Created joystick text component" />
+    <MESSAGE value="Created clear button component" />
+    <MESSAGE value="Created api service for joystick" />
+    <MESSAGE value="Added backend" />
+    <MESSAGE value="Updated backend files" />
+    <MESSAGE value="Inited project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inited project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604954893031">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604954893031" />
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1604954797932">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="266" key="FileChooserDialogImpl/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604954797932" />
+    <state x="184" y="87" key="MergeDialog" timestamp="1604953291501">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="184" y="87" key="MergeDialog/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604953291501" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1604954781371">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604954781371" />
+    <state x="681" y="266" width="540" height="524" key="StructurePopup" timestamp="1602798715470">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="681" y="266" width="540" height="524" key="StructurePopup/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1602798715470" />
+    <state x="807" y="438" key="VCS.ChangelistChooser" timestamp="1604697251338">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="807" y="438" key="VCS.ChangelistChooser/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604697251338" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1604797130470">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604797130470" />
+    <state x="782" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604797615074">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="782" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604797615074" />
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604787990472">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604787990472" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1604792727707">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604792727707" />
+    <state x="382" y="276" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1604953282193">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="382" y="276" key="vcs.ApplyPatchDifferentiatedDialog/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604953282193" />
+  </component>
+</project>
