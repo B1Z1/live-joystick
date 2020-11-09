@@ -11,11 +11,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d26f399-0d3a-4fd7-ae00-3ad97a5d679c" name="Default Changelist" comment="Inited project">
-      <change afterPath="$PROJECT_DIR$/.idea/LivePilot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/domain/routes/pilot-page-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/domain/routes/welcome-page-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/domain/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/domain/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/domain/routes/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/domain/routes/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/modules/joystick/ui/joystick-pad/joystick-pad.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/modules/joystick/ui/joystick-pad/joystick-pad.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/domain/pilot-page.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/domain/pilot-page.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/ui/pilot-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/ui/pilot-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/domain/welcome-page.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/domain/welcome-page.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/ui/welcome-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/ui/welcome-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/ui/welcome-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/ui/welcome-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/ui/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/ui/app.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +39,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="package.json" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -46,24 +62,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/domain" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\Users\Ilya\Desktop\Projects\LivePilot\Backend\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Ilya\Desktop\Projects\LivePilot\LivePilot\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\LivePilot\ui" />
       <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\pilot-page\domain" />
       <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\welcome-page\ui" />
       <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\welcome-page\domain" />
       <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\domain\routes" />
-      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\modules" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\pilot-page\domain" />
       <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Backend" />
     </key>
   </component>
@@ -87,7 +104,8 @@
       <workItem from="1604783436367" duration="12642000" />
       <workItem from="1604797571965" duration="1460000" />
       <workItem from="1604799278028" duration="1164000" />
-      <workItem from="1604954738460" duration="316000" />
+      <workItem from="1604954738460" duration="6255000" />
+      <workItem from="1604961066357" duration="129000" />
     </task>
     <task id="LOCAL-00001" summary="Created logic">
       <created>1604783417421</created>
@@ -231,14 +249,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="782" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604797615074" />
-    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604787990472">
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604955290237">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604787990472" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1604792727707">
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604955290237" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1604957846404">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604792727707" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604957846404" />
     <state x="382" y="276" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1604953282193">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
