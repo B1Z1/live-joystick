@@ -11,25 +11,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d26f399-0d3a-4fd7-ae00-3ad97a5d679c" name="Default Changelist" comment="Inited project">
-      <change afterPath="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/domain/routes/pilot-page-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/domain/routes/welcome-page-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/app/domain/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/domain/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/app/domain/routes/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/domain/routes/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/app/modules/joystick/ui/joystick-pad/joystick-pad.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/modules/joystick/ui/joystick-pad/joystick-pad.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/domain/pilot-page.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/domain/pilot-page.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/ui/pilot-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/ui/pilot-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/domain/welcome-page.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/domain/welcome-page.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/ui/welcome-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/ui/welcome-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/ui/welcome-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/pages/welcome-page/ui/welcome-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/app/ui/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/ui/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ui/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ui/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ui/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/ui/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/modules/joystick/domain/joystick.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/modules/joystick/domain/joystick.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,26 +60,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Frontend/src/app/pages/pilot-page/domain" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/dist" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\Users\Ilya\Desktop\Projects\LivePilot\LivePilot\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Ilya\Desktop\Projects\LivePilot\server\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\LivePilot\ui" />
-      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\pilot-page\domain" />
-      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\welcome-page\ui" />
-      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\welcome-page\domain" />
-      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\domain\routes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\src\dist" />
       <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\pilot-page\domain" />
       <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\server\dist" />
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\src\dist" />
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\src" />
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\LivePilot\ui" />
+      <recent name="C:\Users\Ilya\Desktop\Projects\LivePilot\Frontend\src\app\pages\pilot-page\domain" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -106,6 +105,12 @@
       <workItem from="1604799278028" duration="1164000" />
       <workItem from="1604954738460" duration="6255000" />
       <workItem from="1604961066357" duration="129000" />
+      <workItem from="1604961226573" duration="1721000" />
+      <workItem from="1604963241172" duration="3462000" />
+      <workItem from="1605031546428" duration="918000" />
+      <workItem from="1605035030933" duration="3460000" />
+      <workItem from="1605039360482" duration="2898000" />
+      <workItem from="1605042300690" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="Created logic">
       <created>1604783417421</created>
@@ -177,16 +182,25 @@
       <option name="project" value="LOCAL" />
       <updated>1604954582721</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Changes in project">
+      <created>1604961397402</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604961397402</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Changes in project">
+      <created>1604961418348</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604961418348</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/Backend/index.js" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -214,7 +228,8 @@
     <MESSAGE value="Added backend" />
     <MESSAGE value="Updated backend files" />
     <MESSAGE value="Inited project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inited project" />
+    <MESSAGE value="Changes in project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604954893031">
@@ -241,14 +256,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="807" y="438" key="VCS.ChangelistChooser/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604697251338" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1604797130470">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1604961439427">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604797130470" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604961439427" />
     <state x="782" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604797615074">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="782" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604797615074" />
+    <state x="667" y="258" width="585" height="534" key="find.popup" timestamp="1604961939891">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="258" width="585" height="534" key="find.popup/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1604961939891" />
     <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604955290237">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

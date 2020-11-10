@@ -8,7 +8,12 @@ import { FormsModule } from '@angular/forms';
 import { JoystickClearButtonComponent } from 'src/app/modules/joystick/ui/joystick-clear-button/joystick-clear-button.component';
 import { JoystickApiService } from 'src/app/modules/joystick/domain/api/joystick-api.service';
 
-const socketConfig: SocketIoConfig = {url: 'http://192.168.0.15:3000', options: {}};
+const socketConfig: SocketIoConfig = {
+  url: 'http://192.168.0.15:3000',
+  options: {
+    withCredentials: false
+  }
+};
 
 @NgModule({
   declarations: [JoystickComponent, JoystickPadComponent, JoystickTextComponent, JoystickClearButtonComponent],
