@@ -52,12 +52,9 @@ export class JoystickPadComponent implements OnInit, AfterViewInit {
   }
 
   ngOnInit(): void {
-    console.log('work');
   }
 
   ngAfterViewInit(): void {
-    console.log('that work');
-    console.log(this.joystickButton);
     this.setCenterCoords();
   }
 
